@@ -12,3 +12,35 @@
     text-align: center;
     margin: 100px 10px;
 }
+
+.section-layout {
+    margin: 10px;
+}
+
+.section-layout h2 {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    margin: 25px 0;
+}
+
+.section-layout h3 {
+    margin: 25px 0;
+}
+
+.section-layout p span {
+    color: blue;
+    font-weight: bold;
+}
+
+#brushes {
+    background-color: mediumspringgreen;
+}
+
+#frames {
+    background-color: lightcoral;
+}
+
+#paint {
+    background-color: skyblue;
+}
