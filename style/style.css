@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica, Arial, sans-serif
+}
+
+.header {
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    background-image: url("../assets/images/pattern.jpeg");
+    text-align: center;
+    margin: 100px 10px;
+}
